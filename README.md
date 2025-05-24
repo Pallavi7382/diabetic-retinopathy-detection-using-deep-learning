@@ -18,6 +18,9 @@ Structure: The dataset consists of 5 folders, each representing a different clas
 Type: Image data
 Total Images: ~3500 (approximate count based on folder sizes)
 
+Source to access the dataset: Kaggale
+Dataset link: https://www.kaggle.com/datasets/sovitrath/diabetic-retinopathy-224x224-2019-data
+
 Project Objectives
 Build a classification model using EfficientNetB3
 Build another classification model using EfficientNetB4
