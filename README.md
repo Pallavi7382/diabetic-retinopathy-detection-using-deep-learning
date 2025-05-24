@@ -38,7 +38,7 @@ Evaluation Metrics
 | Model           | Accuracy |  
 |----------------|----------|  
 | EfficientNetB3 | 96.16%   |  
-| EfficientNetB4 | 91.86%   |  
+| EfficientNetB4 | 91.64%   |  
 
 EfficientNetB3 showed superior performance in detecting diabetic retinopathy stages.
 
